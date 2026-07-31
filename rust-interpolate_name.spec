@@ -5,8 +5,8 @@
 %global crate interpolate_name
 
 Name:           rust-%{crate}
-Version:        0.2.3
-Release:        2%{?dist}
+Version:        0.2.4
+Release:        1%{?dist}
 Summary:        Simple procedural macro attribute for repetitive tests
 
 # Upstream license specification: MIT
